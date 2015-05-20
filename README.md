@@ -4,11 +4,11 @@
 A Rails Application created for the purpose of experimenting with new Rails Application configuration options.
 
 * Option Used for Configuration
-```
 
 For the configuration of this application, two options were used, "-T" and "-j." The "-T" option skips test of unit files. The "-j"  preconfigures the application for selected JavaScript library. These were the only options used, although there are many other configuration options available.
 
-```
+Note: Do not use fencing markdown in README. It is not user friendly.
+
 * Ruby version
 
 * System dependencies
